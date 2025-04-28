@@ -42,7 +42,7 @@ button {
     background: #2C2891;
 }
 
-#dicrement-btn {
+#decrement-btn {
     background: #912828;
 }
 
@@ -58,7 +58,7 @@ button {
     font-weight: bold;
 }
 
-#increment-btn:hover, #save-btn:hover, #reset-btn:hover, #dicrement-btn:hover {
+#increment-btn:hover, #save-btn:hover, #reset-btn:hover, #decrement-btn:hover {
     opacity: 0.9;
     transition: 0.5s all;
     cursor: pointer;

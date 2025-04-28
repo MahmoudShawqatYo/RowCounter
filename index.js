@@ -8,7 +8,7 @@ function increment() {
     countEl.textContent = count
 }
 
-function dicrement() {
+function decrement() {
     if(count){
         count -= 1
         countEl.textContent = count
